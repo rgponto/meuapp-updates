@@ -1,8 +1,8 @@
 {
   "versao_atual": "5.0.0",
   "data_lancamento": "2026-04-06",
-  "url_download": "https://rgponto.github.io/atualizacoes-do-meuapp/releases/RGPonto_5.0.12.exe",
-  "url_atualizacoes": "https://rgponto.github.io/atualizacoes-do-meuapp/updates.json",
+  "url_download": "https://rgponto.github.io/meuapp-updates/releases/RGPonto_5.0.0.exe",
+  "url_atualizacoes": "https://rgponto.github.io/meuapp-updates/updates.json",
   "tamanho_bytes": 15420000,
   "obrigatorio": true
 }
