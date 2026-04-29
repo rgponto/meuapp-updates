@@ -7,7 +7,6 @@
       "tipo": "FUNCIONALIDADE",
       "descricao": "LANCAMENTO NOVA VERSAO DO SISTEMA"
     },
-  "atualizacoes": [
     {
       "versao": "5.0.12",
       "versao_anterior": "5.0.10",
