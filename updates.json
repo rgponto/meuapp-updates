@@ -1,6 +1,13 @@
 {
   "atualizacoes": [
     { 
+      "versao": "6.0.0.3",
+      "versao_anterior": "6.0.0.2",
+      "data": "01/05/2026 06:00:00",
+      "tipo": "FUNCIONALIDADE",
+      "descricao": "NOVA TABELA DE CIDADES ADICIONADA AO SISTEMA"
+    },
+    { 
       "versao": "6.0.0.2",
       "versao_anterior": "6.0.0.1",
       "data": "30/04/2026 10:00:00",
