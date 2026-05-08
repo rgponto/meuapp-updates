@@ -1,6 +1,13 @@
 {
   "atualizacoes": [
     { 
+      "versao": "6.0.0.8",
+      "versao_anterior": "6.0.0.6",
+      "data": "08/05/2026 15:23:00",
+      "tipo": "FUNCIONALIDADE",
+      "descricao": "NOVOS RELATORIOS DE AUDITORIA PERFIS DE ACESSO"
+    },
+    { 
       "versao": "6.0.0.6",
       "versao_anterior": "6.0.0.4",
       "data": "07/05/2026 14:10:00",
