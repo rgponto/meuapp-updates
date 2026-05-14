@@ -1,6 +1,13 @@
 {
   "atualizacoes": [
     { 
+      "versao": "6.0.0.18",
+      "versao_anterior": "6.0.0.8",
+      "data": "14/05/2026 15:11:00",
+      "tipo": "CORREÇÕES",
+      "descricao": "PEQUENAS CORREÇÕES INTERNAS NO SISTEMA EM GERAL"
+    }, 
+    { 
       "versao": "6.0.0.8",
       "versao_anterior": "6.0.0.6",
       "data": "08/05/2026 15:23:00",
