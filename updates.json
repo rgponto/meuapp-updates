@@ -1,6 +1,13 @@
 {
   "atualizacoes": [
     { 
+      "versao": "6.0.0.20",
+      "versao_anterior": "6.0.0.18",
+      "data": "15/05/2026 08:49:11",
+      "tipo": "FUNCIONALIDADE",
+      "descricao": "NOVA ABA DE GARANTIA NA TELA DE MANUTENÇÃO DE EQUIPAMENTOS"
+    }, 
+    { 
       "versao": "6.0.0.18",
       "versao_anterior": "6.0.0.8",
       "data": "14/05/2026 15:11:00",
