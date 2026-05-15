@@ -1,6 +1,13 @@
 {
   "atualizacoes": [
     { 
+      "versao": "6.0.0.24",
+      "versao_anterior": "6.0.0.20",
+      "data": "15/05/2026 14:45:00",
+      "tipo": "FUNCIONALIDADE",
+      "descricao": "NOVO RELATORIO DE AUDITORIA DE BACKUP"
+    },  
+    { 
       "versao": "6.0.0.20",
       "versao_anterior": "6.0.0.18",
       "data": "15/05/2026 08:49:11",
