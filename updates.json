@@ -1,6 +1,13 @@
 {
   "atualizacoes": [
     { 
+      "versao": "6.0.0.25",
+      "versao_anterior": "6.0.0.24",
+      "data": "26/05/2026 15:11:00",
+      "tipo": "FUNCIONALIDADE",
+      "descricao": "AJUSTES E MELHORIAS NA TELA DE CONTRATOS E PEDIDOS"
+    },
+    { 
       "versao": "6.0.0.24",
       "versao_anterior": "6.0.0.20",
       "data": "15/05/2026 14:45:00",
