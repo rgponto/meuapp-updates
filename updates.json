@@ -1,6 +1,13 @@
 {
   "atualizacoes": [
     { 
+      "versao": "6.0.0.32",
+      "versao_anterior": "6.0.0.25",
+      "data": "01/06/2026 06:11:00",
+      "tipo": "FUNCIONALIDADE",
+      "descricao": "NOVA OPÇÃO DE CONFIGURAÇÃO DO SISTEMA E NOVOS RELATORIOS CONTROLE DE KM"
+    },
+    { 
       "versao": "6.0.0.25",
       "versao_anterior": "6.0.0.24",
       "data": "26/05/2026 15:11:00",
